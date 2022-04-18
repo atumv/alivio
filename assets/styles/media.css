@@ -22,7 +22,13 @@
     font-size: 30px;
   }
 
-  .sign-in__link {
+  .sign-in {
+    grid-column: 2 / 12;
+    align-self: center;
+    justify-self: center;
+  }
+
+  .sign-in-link {
     display: block;
     text-align: center;
     margin-right: 0;
@@ -34,12 +40,6 @@
   .trial-btn {
     display: block;
     font-size: 30px;
-  }
-
-  .sign-in {
-    grid-column: 2 / 12;
-    align-self: center;
-    justify-self: center;
   }
 
   .hero-text {
@@ -86,12 +86,12 @@
     font-size: 30px;
   }
 
-  .step-one {
+  .steps__step-one {
     grid-column: 2 / 12;
     text-align: center;
   }
 
-  .step-two {
+  .steps__step-two {
     grid-column: 2 / 12;
     text-align: center;
     margin: 0;
@@ -102,7 +102,7 @@
     text-align: center;
   }
 
-  .step-three {
+  .steps__step-three {
     grid-column: 2 / 12;
     text-align: center;
     margin-top: 200px;
@@ -121,7 +121,7 @@
     text-align: center;
   }
 
-  .story__subheader {
+  .story__subtitle {
     font-size: 30px;
   }
 
@@ -149,7 +149,7 @@
     font-size: 30px;
   }
 
-  .product__subheader {
+  .product__subtitle {
     font-size: 30px;
   }
 
