@@ -1,0 +1,168 @@
+@media (max-width: 992px) {
+  .header {
+    padding: 40px 0;
+  }
+
+  .logo {
+    grid-column: 2 / 12;
+    align-self: center;
+    text-align: center;
+  }
+
+  .nav {
+    grid-column: 2 / 12;
+    margin-left: 0;
+    align-self: center;
+    text-align: center;
+    margin: 25px 0;
+  }
+
+  .nav__link {
+    display: block;
+    font-size: 30px;
+  }
+
+  .sign-in__link {
+    display: block;
+    text-align: center;
+    margin-right: 0;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 30px;
+  }
+
+  .trial-btn {
+    display: block;
+    font-size: 30px;
+  }
+
+  .sign-in {
+    grid-column: 2 / 12;
+    align-self: center;
+    justify-self: center;
+  }
+
+  .hero-text {
+    grid-column: 2 / 12;
+    text-align: center;
+  }
+
+  .hero__title {
+    text-shadow: 0 0 6px #fff;
+  }
+
+  .hero__subtitle {
+    font-size: 30px;
+    margin-right: 0;
+    color: #fff;
+    text-shadow: 0 0 11px #000;
+  }
+
+  .hero-btn {
+    font-size: 30px;
+  }
+
+  .steps {
+    padding-bottom: 145px;
+  }
+
+  .steps-header {
+    grid-column: 2 / 12;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .steps__intro {
+    font-size: 25px;
+  }
+
+  .steps-text {
+    grid-column: 2 / 12;
+    text-align: center;
+  }
+
+  .steps__text {
+    margin-left: 0;
+    font-size: 30px;
+  }
+
+  .step-one {
+    grid-column: 2 / 12;
+    text-align: center;
+  }
+
+  .step-two {
+    grid-column: 2 / 12;
+    text-align: center;
+    margin: 0;
+    margin-top: 200px;
+  }
+
+  .step-two__header {
+    text-align: center;
+  }
+
+  .step-three {
+    grid-column: 2 / 12;
+    text-align: center;
+    margin-top: 200px;
+  }
+
+  .step__header {
+    font-size: 40px;
+  }
+
+  .step__description {
+    font-size: 30px;
+  }
+
+  .story__text {
+    grid-column: 2 / 12;
+    text-align: center;
+  }
+
+  .story__subheader {
+    font-size: 30px;
+  }
+
+  .story-btn {
+    font-size: 30px;
+  }
+
+  .story__video {
+    grid-column: 2 / 12;
+    margin-top: 100px;
+  }
+
+  .product-img {
+    grid-column: 2 / 12;
+  }
+
+  .product-text {
+    grid-column: 2 / 12;
+    margin-left: 0;
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  .product__intro {
+    font-size: 30px;
+  }
+
+  .product__subheader {
+    font-size: 30px;
+  }
+
+  .product-btn {
+    font-size: 30px;
+  }
+
+  .footer-links {
+    grid-column: 2 / 12;
+    text-align: center;
+  }
+
+  .footer-nav__link {
+    font-size: 30px;
+  }
+}
